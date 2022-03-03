@@ -1,0 +1,73 @@
+@media screen {
+    body {
+        background-color: burlywood;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .grid{
+        padding:0px; 
+        margin:12px;
+        display:grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr; 
+        column-gap: 10px;
+        row-gap: 10px;
+      }
+}
+
+@media screen and (min-width: 900px) {
+    body {
+        margin: 20px;
+    }
+}
+
+
+#titre h1 {
+    font-weight: 900;
+    text-align: center;
+    color: red;
+    font-family: 'Gill sans', 'Arial', sans-serif;
+    text-decoration: underline;
+}
+
+
+#par_1 {
+        font-family: 'Arial', sans-serif;  
+        background-color: green;
+        padding-left: 15px;
+    }
+/* Pour centrer les différentes images */ 
+#rat, #pigeon, #coccinelle, #pigeon2, h2 {
+    text-align: center; 
+}
+
+/* Pour redimensionner toutes les images de la page HTML */
+img {
+    width: 250px;
+}
+
+#par_2 {
+    font-family: 'Arial', sans-serif;
+    background-color: darkolivegreen;
+    color: black;
+    padding-left: 15px;
+    
+}
+
+#par_3 {
+    font-style: 'Arial', sans-serif;
+    color: black;
+    background-color: blueviolet;
+    padding-left: 15px;
+    
+}
+
+#par_4 {
+    font-family: 'Arial', sans-serif;
+    color: black;
+    background-color: royalblue;
+    padding-left: 15px;
+    
+}
+
