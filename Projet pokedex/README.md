@@ -19,10 +19,12 @@
 ### Les images ne sont pas présentes dans ce dossier car elles sont trop lourdes.
 
 
-# Lancer le site
+# Voir le site
 
-### Le site n'a pas été mis en ligne. En attendant, je vous ai mis un aperçu visuel
-### de chaque page dans le sous dossier "Aperçu du site".
+### Le site est en ligne à l'adresse suivante : pokedex.arijenth.com
+### Identifiant : pokemon
+### Mot de passe : pokemon
+
 
 
 # Crédits
