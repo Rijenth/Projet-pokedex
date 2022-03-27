@@ -1,5 +1,5 @@
 # Introduction
-### J'ai crée ce site afin de m'entrainer en HTML / CSS / PHP / SQL.
+### J'ai crée ce site afin de m'entrainer en HTML / CSS / PHP / MySQL.
 ### Ce site est une création personnelle sur mon temps libre.
 
 # Explication
