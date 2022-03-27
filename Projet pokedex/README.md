@@ -6,10 +6,9 @@
 
 ## Description
 ### Ce site est constitué d'une page login, d'une page dashboard et enfin d'une page "détail".
-### Chaque page est liée à un fichier css qui lui est propre.
 
 ## pokemon_db.sql
-### Les données des pokémons (à l'exception des images) sont issue d'une base donnée SQL.
+### Les données des pokémons (à l'exception des images) sont issue d'une base de donnée.
 ### Les étapes de création de la base de données ont été consignées dans le fichier "pokemon_db".
 
 ## pdo\pdo_pokemon
