@@ -21,8 +21,8 @@
 # Voir le site
 
 ### Le site est en ligne à l'adresse suivante : pokedex.arijenth.com
-### Identifiant : pokemon
-### Mot de passe : pokemon
+### Identifiant : Mew0123
+### Mot de passe : Mew0123
 
 
 
