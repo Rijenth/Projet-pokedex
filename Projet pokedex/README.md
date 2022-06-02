@@ -20,9 +20,6 @@ Les étapes de création de la base de données ont été consignées dans le fi
 ## pdo\pdo_pokemon
 J'ai crée un fichier "pdo_pokemon" afin de pouvoir l'appeler dans les autres fichiers PHP. 
 
-## img
-Les images ne sont pas présentes dans ce dossier car elles sont trop lourdes.
-
 # Crédits
 Merci à furretturret pour les images gifs des pokémons. (https://www.furretturret.com)
 
