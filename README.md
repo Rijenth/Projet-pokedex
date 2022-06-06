@@ -12,13 +12,11 @@ Mot de passe : Mew0123
 
 ## Description
 Ce site est constitué d'une page login, d'une page dashboard et enfin d'une page "détail".
+Il s'agit d'un pokedex sous la forme d'une page web.
 
 ## pokemon_db.sql
 Les données des pokémons (à l'exception des images) sont issue d'une base de donnée.
 Les étapes de création de la base de données ont été consignées dans le fichier "pokemon_db".
-
-## pdo\pdo_pokemon
-J'ai crée un fichier "pdo_pokemon" afin de pouvoir l'appeler dans les autres fichiers PHP. 
 
 # Crédits
 Merci à furretturret pour les images gifs des pokémons. (https://www.furretturret.com)
